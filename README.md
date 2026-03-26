@@ -10,8 +10,6 @@ Hi, I'm Shaswat Srivastava. I'm currently in my final year of B.Tech at VIT Bhop
 # 📊 GitHub Stats:
 ## 🧠 LeetCode
 
-## 🧠 LeetCode
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Shaswat_Srivastava/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shaswat_Srivastava?theme=tokyonight&font=Karma&ext=heatmap)
